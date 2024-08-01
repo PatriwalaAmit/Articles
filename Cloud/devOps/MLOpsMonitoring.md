@@ -1,8 +1,8 @@
-### As an enterprise architect, I recently had a stimulating discussion with our senior data architect and cloud team regarding the future of our machine learning projects. Our primary focus was on enhancing collaboration across departments to build a robust data pipeline, establish scalable cloud infrastructure, and implement MLOps practices. This discussion was pivotal in shaping our approach to maintaining the success and relevance of our machine learning models in production.
+As an enterprise architect, I recently had a stimulating discussion with our senior data architect and cloud team regarding the future of our machine learning projects. Our primary focus was on enhancing collaboration across departments to build a robust data pipeline, establish scalable cloud infrastructure, and implement MLOps practices. This discussion was pivotal in shaping our approach to maintaining the success and relevance of our machine learning models in production.
 
-### During our brainstorming session, we all agreed on one critical aspect: the necessity for our models to remain relevant with the latest data post-deployment.
+During our brainstorming session, we all agreed on one critical aspect: the necessity for our models to remain relevant with the latest data post-deployment.
 
-### We recognized that once a model is deployed into production, it can quickly become outdated if it is not continuously monitored and updated.
+We recognized that once a model is deployed into production, it can quickly become outdated if it is not continuously monitored and updated.
 
 This could happen due to several factors such as
 
@@ -14,8 +14,6 @@ We discussed the importance of monitoring these changes. It became clear that wi
 
 We all agreed that it’s super important to keep a close eye on our models after we put them to production.
 
-
-Image by freepik
 We explored the concept of “data drift and feature drift” where the statistical properties of the input data change over time. This drift can significantly impact the model’s performance, causing predictions to become less accurate or entirely misleading. Therefore, we emphasized the need to implement robust monitoring mechanisms that track these changes and provide actionable insights.
 
 Moreover, we talked about the essential components of a successful MLOps strategy. This includes setting up comprehensive data monitoring to track data quality and drift, implementing model performance monitoring to ensure that models meet the desired accuracy and reliability, and maintaining operational monitoring to oversee system health, latency, and resource utilization.
