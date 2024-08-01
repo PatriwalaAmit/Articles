@@ -1,10 +1,8 @@
 ### As an enterprise architect, I recently had a stimulating discussion with our senior data architect and cloud team regarding the future of our machine learning projects. Our primary focus was on enhancing collaboration across departments to build a robust data pipeline, establish scalable cloud infrastructure, and implement MLOps practices. This discussion was pivotal in shaping our approach to maintaining the success and relevance of our machine learning models in production.
 
-During our brainstorming session, we all agreed on one critical aspect: the necessity for our models to remain relevant with the latest data post-deployment.
+### During our brainstorming session, we all agreed on one critical aspect: the necessity for our models to remain relevant with the latest data post-deployment.
 
-
-Image by rawpixel.com on Freepik
-We recognized that once a model is deployed into production, it can quickly become outdated if it is not continuously monitored and updated.
+### We recognized that once a model is deployed into production, it can quickly become outdated if it is not continuously monitored and updated.
 
 This could happen due to several factors such as
 
